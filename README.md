@@ -1,3 +1,3 @@
-## Mac-NBTExplorer-Unofficial
-# An unofficial port of NBTExplorer for Mac using wine
+# Mac-NBTExplorer-Unofficial
+### An unofficial port of NBTExplorer for Mac using wine
 
